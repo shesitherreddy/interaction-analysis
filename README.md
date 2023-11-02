@@ -20,7 +20,7 @@ Similarly I analysed my second factor age with mean deaths and i used my conditi
 
 
 <p align="center">
-  <img src="" width="350"><br>
-  <img src="https://github.com/shesitherreddy/interaction-analysis/blob/main/unemployment%20vs%20deaths%20summmary.jpeg" width="500">
+  <img src="https://github.com/shesitherreddy/interaction-analysis/blob/main/age%20vs%20death%20-%20with%20reg.png" width="350"><br>
+  <img src="" width="500">
 </p>
 
