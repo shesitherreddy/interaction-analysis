@@ -15,12 +15,23 @@ I began by assigning my measurements and factors from the data set that I obtain
   <img src="https://github.com/shesitherreddy/interaction-analysis/blob/main/unemployment%20vs%20death%20-%20with%20reg.png" width="350"><br>
   <img src="https://github.com/shesitherreddy/interaction-analysis/blob/main/unemployment%20vs%20deaths%20summmary.jpeg" width="500">
 </p>
+
 ### Analysis 2
 Similarly I analysed my second factor age with mean deaths and i used my condition to be for age groups above 40 since most number of deaths till date due to covid is seen in people who are 40 plus in US.After assigning and performing OLS regression,we see that P-values for slope and and intercept to be zero. As a result, we can conclude that age has very highh influence on deaths in counties.
 
 
 <p align="center">
   <img src="https://github.com/shesitherreddy/interaction-analysis/blob/main/age%20vs%20death%20-%20with%20reg.png" width="350"><br>
+  <img src="https://github.com/shesitherreddy/interaction-analysis/blob/main/age%20vs%20deaths%20summary.jpeg" width="500">
+</p>
+
+
+### Interaction analysis
+Finally I performed interaction analysis taking my two condiyions in to account we see that after assigning and performing OLS regression we see the P-values to be varying and in the model summary we get to know that P-values for the constant and x1 which is my age have shown to be a good fit for my data but for the unempolyment and interaction terms did not show us th industrial standard values in P. So finally we can conclude that my factors do not interact with each other.
+
+<p align="center">
   <img src="" width="500">
 </p>
+
+
 
