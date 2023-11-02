@@ -1,4 +1,4 @@
-# interaction analysis project 1
+# Interaction analysis project 1
  Performing interaction analysis for covid-19 data in the year 2022 for Texas state
  ## Motivation
 Age can be a significant predictor of health outcomes, and unemployment can have an impact on an individual's economic well-being. I wanted to determine if unemployment and old age have an impact on people's well-being by analysing the connection between age and unemployment with the deaths per counties due to covid in the year 2022.As a native of India, I witnessed how unemployment during the covid shutdown led to the deaths of many people, and how age also had a large role in the deaths of people in India.
