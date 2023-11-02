@@ -7,4 +7,10 @@ Age can be a significant predictor of health outcomes, and unemployment can have
 
 
 ## Summmary
-I first started by assigning my measurement and factors from the data set which I got after cleaning and organizing my data from the raw data sets provided and my first linear analysis for mean deaths and unemployment have used my condition for unemployment to be greater than or equal to 3.8% as it is the average unemployment rate in the US and we see that more than half of the counties in Texas have been found to be having unemployment rate more than the average.After assigning and performing OLS regresssion we see the P-value to be 0.95 which is the slope value and intercept to be 0
+I first started by assigning my measurement and factors from the data set which I got after cleaning and organizing my data from the raw data sets provided and my first linear analysis for mean deaths and unemployment have used my condition for unemployment to be greater than or equal to 3.8% as it is the average unemployment rate in the US and we see that more than half of the counties in Texas have been found to be having unemployment rate more than the average.After assigning and performing OLS regresssion we see the P-value to be 0.95 which is the slope value and intercept to be 0. by this we can say that unemployment has a very lesss influence over deaths in the counties due to covid-19 in the year 2022.
+
+
+<p align="center">
+  <img src="" width="350"><br>
+  <img src="https://github.com/bcerminarache2410/CHE2410-Project-1/blob/main/death%20rate%20vs%20ozone%20-%20reg%20nums.png" width="500">
+</p>
