@@ -30,7 +30,7 @@ Similarly I analysed my second factor age with mean deaths and i used my conditi
 Finally I performed interaction analysis taking my two condiyions in to account we see that after assigning and performing OLS regression we see the P-values to be varying and in the model summary we get to know that P-values for the constant and x1 which is my age have shown to be a good fit for my data but for the unempolyment and interaction terms did not show us th industrial standard values in P. So finally we can conclude that my factors do not interact with each other.
 
 <p align="center">
-  <img src="" width="500">
+  <img src="https://github.com/shesitherreddy/interaction-analysis/blob/main/interaction%20summary.jpeg" width="500">
 </p>
 
 
