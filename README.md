@@ -7,12 +7,20 @@ Age can be a significant predictor of health outcomes, and unemployment can have
 
 
 ## Summmary
-I first started by assigning my measurement and factors from the data set which I got after cleaning and organizing my data from the raw data sets provided and my first linear analysis for mean deaths and unemployment have used my condition for unemployment to be greater than or equal to 3.8% as it is the average unemployment rate in the US and we see that more than half of the counties in Texas have been found to be having unemployment rate more than the average.After assigning and performing OLS regresssion we see the P-value to be 0.95 which is the slope value and intercept to be 0. by this we can say that unemployment has a very lesss influence over deaths in the counties due to covid-19 in the year 2022.
+### Analysis 1
+I began by assigning my measurements and factors from the data set that I obtained after cleaning and organizing my data from the raw data sets provided, and my first linear analysis for mean deaths and unemployment used my condition for unemployment to be greater than or equal to 3.8% as it is the average unemployment rate in the US, and we see that more than half of the counties in Texas have unemployment rates that are higher than the national average.After assigning and performing OLS regression, we notice that the P-value is 0.95, corresponding to a slope and 0 for intercept. As a result, we can conclude that unemployment has very little influence on deaths in counties.
 
 
 <p align="center">
   <img src="https://github.com/shesitherreddy/interaction-analysis/blob/main/unemployment%20vs%20death%20-%20with%20reg.png" width="350"><br>
   <img src="https://github.com/shesitherreddy/interaction-analysis/blob/main/unemployment%20vs%20deaths%20summmary.jpeg" width="500">
 </p>
+### Analysis 2
+Similarly I analysed my second factor age with mean deaths and i used my condition to be for age groups above 40 since most number of deaths till date due to covid is seen in people who are 40 plus in US.After assigning and performing OLS regression,we see that P-values for slope and and intercept to be zero. As a result, we can conclude that age has very highh influence on deaths in counties.
 
+
+<p align="center">
+  <img src="" width="350"><br>
+  <img src="https://github.com/shesitherreddy/interaction-analysis/blob/main/unemployment%20vs%20deaths%20summmary.jpeg" width="500">
+</p>
 
